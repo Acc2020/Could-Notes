@@ -4,17 +4,17 @@
 [ToC] 
 
 ## 算法
-- **[剑指 Offer ](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/剑指%20Offer-目录.md)**
-- **[Leetcode ](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Leetcode-目录.md)**
+- **[剑指 Offer ](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/剑指%20Offer-目录.md)**
+- **[Leetcode ](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Leetcode-目录.md)**
 
 ## 计算机网络
-- **[计算机网络-基础知识](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/计算机网络-基础知识.md)**
-- **[计算机网络-数据链路层](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/计算机网络-数据链路层.md)**
-- **[计算机网络-UDP](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/计算机网络-UDP.md)**
+- **[计算机网络-基础知识](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/计算机网络-基础知识.md)**
+- **[计算机网络-数据链路层](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/计算机网络-数据链路层.md)**
+- **[计算机网络-UDP](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/计算机网络-UDP.md)**
 
 
 ## 操作系统
-- **[Linux](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Linux.md)**
+- **[Linux](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Linux.md)**
 
 ## 数据库
 - **[SQL]()**  
@@ -22,16 +22,16 @@
 
 
 ## Python 
-- **[Flask](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Python-Flask.md)**
+- **[Flask](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Python-Flask.md)**
 
 ## Java
-- **[Java 基础](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Java%20基础.md)**
-- **[Java 容器](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Java%20容器.md)**
-- **[Java 并发](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Java%20并发.md)**
-- **[Java IO](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Java%20IO.md)**
-- **[Java 设计模式](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/Java%20设计模式.md)**
+- **[Java 基础](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Java%20基础.md)**
+- **[Java 容器](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Java%20容器.md)**
+- **[Java 并发](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Java%20并发.md)**
+- **[Java IO](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Java%20IO.md)**
+- **[Java 设计模式](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/Java%20设计模式.md)**
 
 
 ## 工具
-- **[Git](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/git.md)**
-- **[正则表达式](https://github.com/Acc2020/Could-Notes/blob/master/notes/docs/正则表达式.md)**
+- **[Git](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/git.md)**
+- **[正则表达式](https://github.com/Acc2020/Could-Notes/blob/master/docs/notes/正则表达式.md)**
