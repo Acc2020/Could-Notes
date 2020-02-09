@@ -5,17 +5,17 @@
 [ToC] 
 
 ## 算法
-- **[剑指 Offer ](docs/notes/剑指%20Offer-目录.md)**
-- **[Leetcode ](docs/notes/Leetcode-目录.md)**
+- **[剑指 Offer ](notes/剑指%20Offer-目录.md)**
+- **[Leetcode ](notes/Leetcode-目录.md)**
 
 ## 计算机网络
-- **[计算机网络-基础知识](docs/notes/计算机网络-基础知识.md)**
-- **[计算机网络-数据链路层](docs/notes/计算机网络-数据链路层.md)**
-- **[计算机网络-UDP](docs/notes/计算机网络-UDP.md)**
+- **[计算机网络-基础知识](notes/计算机网络-基础知识.md)**
+- **[计算机网络-数据链路层](notes/计算机网络-数据链路层.md)**
+- **[计算机网络-UDP](notes/计算机网络-UDP.md)**
 
 
 ## 操作系统
-- **[Linux](docs/notes/Linux.md)**
+- **[Linux](notes/Linux.md)**
 
 ## 数据库
 - **[SQL]()**  
@@ -23,16 +23,16 @@
 
 
 ## Python 
-- **[Flask](docs/notes/Python-Flask.md)**
+- **[Flask](notes/Python-Flask.md)**
 
 ## Java
-- **[Java 基础](docs/notes/Java%20基础.md)**
-- **[Java 容器](docs/notes/Java%20容器.md)**
-- **[Java 并发](docs/notes/Java%20并发.md)**
-- **[Java IO](docs/notes/Java%20IO.md)**
-- **[Java 设计模式](docs/notes/Java%20设计模式.md)**
+- **[Java 基础](notes/Java%20基础.md)**
+- **[Java 容器](notes/Java%20容器.md)**
+- **[Java 并发](notes/Java%20并发.md)**
+- **[Java IO](notes/Java%20IO.md)**
+- **[Java 设计模式](notes/Java%20设计模式.md)**
 
 
 ## 工具
-- **[Git](docs/notes/git.md)**
-- **[正则表达式](docs/notes/正则表达式.md)**
+- **[Git](notes/git.md)**
+- **[正则表达式](notes/正则表达式.md)**
