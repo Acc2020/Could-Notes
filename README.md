@@ -1,3 +1,4 @@
+[阅读](https://acc2020.github.io/Could-Notes/#/)
 # Could-Notes
 准备面试过程中，对重点知识点做的总结，和自己踩到的一些坑。以便自己随时能够翻来看。文章使用 VS code 直接连到 git 提交到 GitHub 方便了文章的可随时浏览性。未曾对这个笔记做更多视觉优化，只是为了舒服使用 Markdown。
 
